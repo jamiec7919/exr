@@ -1,0 +1,1 @@
+Pure Go EXR reader/writer.
